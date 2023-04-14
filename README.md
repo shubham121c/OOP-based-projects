@@ -1,2 +1,1 @@
-# OOP-based-projects
-atm machine functions using python
+Bulk email automation using VBA excel and html
